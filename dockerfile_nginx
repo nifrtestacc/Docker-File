@@ -1,5 +1,0 @@
-#Docker File
-From nginx:trixie-perl
-EXPOSE 80
-COPY ...
-
